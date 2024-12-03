@@ -56,7 +56,8 @@ The analysis outputs include:
 -  **Fhalf**:calculates the half-weight frequency , which divides the power spectrum into two equal parts in terms of cumulative weighted power.
 -  **Time uncertainty**: calculates the uncertainty in the peak time of the SNR using a quadratic fit to the SNR curve around the peak.
 
-#### Signal processing (SNR)
+---
+### Signal processing (SNR)
 
  #### Hanford Detector (H1) for GW150914 event
 
@@ -73,7 +74,8 @@ The analysis outputs include:
    3. **Bottom Right Plot (FFT of Whitened Strain Data)**:
       - The FFT of the whitened strain data shows how noise contributions have been redistributed uniformly across the frequency domain.
 
-#### Signal-to-Noise Ratio (SNR)
+---
+### Signal-to-Noise Ratio (SNR)
 
 ![SNR](MF.png)
 
@@ -107,6 +109,7 @@ Red Dashed Line:
 This line marks the half-weight frequency , where the cumulative weighted power reaches 0.5.
 In this example, Fhalf≈141.94Hz, meaning half of the signal’s weighted power comes from frequencies below 141.94 Hz, and half comes from above. This lies in the typical range for binary black hole mergers. Also interestingly, its where their instruments are most sensetive to these kinds of detections (thanks veritasium!)
 
+---
 ### Time uncertainty
 
 
