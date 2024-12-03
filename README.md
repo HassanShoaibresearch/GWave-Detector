@@ -6,7 +6,7 @@ The data used for this analysis is obtained from LIGO's Gravitational Wave Event
 
 This repository provides an analysis tool for modeling noise in LIGO detector data as a step towards gravitational wave detection. The package is designed to process data from the Livingston (L1) and Hanford (H1) detectors, analyze noise characteristics, and apply matched filtering techniques to identify gravitational wave signals.
 
-The code includes features for analyzing multiple events, such as GW150914, and provides visual outputs for each analysis. If you encounter any issues or discrepancies (e.g., normalization problems), feel free to open an issue. Contributions are welcome, especially in refining the noise model and improving the accuracy of SNR calculations.
+The code includes features for analyzing multiple events, such as GW150914, and provides visual outputs for each analysis.
 
 ---
 
